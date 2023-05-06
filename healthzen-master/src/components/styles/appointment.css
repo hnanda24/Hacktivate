@@ -1,0 +1,9 @@
+.appointmentId{
+    text-align: center;
+}
+.centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: #000; */
+}
